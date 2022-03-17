@@ -81,7 +81,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	font-size:14px;
 }
 .topbar .single-contact i {
-	color: #f3a712;
+	color: #fff;
 	margin-right: 10px;
 	font-size: 18px;
 	position: relative;
@@ -107,7 +107,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
     line-height: initial;
     background: #fff;
 	font-size:14px;
-    color: #f3a712;
+    color: #2e2751;
     border: 1px solid transparent;
 }
 .topbar-right .button .bizwheel-btn:hover{
@@ -132,7 +132,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	color: #ccc;
 }
 .topbar .social-icons li a:hover{
-	color:#F3A712;
+	color:#2e2751;
 }
 
 /* Middle header */
@@ -387,7 +387,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
     width: 118px;
     height: 101%;
     transform: skew(-26deg);
-    background: #f3a712;
+    background: #2e2751;
     z-index: -1;
 }
 .right-bar ul li {
@@ -410,7 +410,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
     border-radius: 100%;
 }
 .right-bar .right-nav li a:hover {
-    color: #F3A712;
+    color: #2e2751;
     border-color: transparent;
     background: #fff;
 }
@@ -488,7 +488,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 }
 .search-top .search-form button:hover{
 	color:#fff;
-	background:#F3A712;
+	background:#2e2751;
 }
 .search-top .search-top.active .search i:before{
 	content:"\f00d";
@@ -505,7 +505,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
     overflow: auto;
     transform: translateX(100%);
     top: 0;
-	border-left:3px solid #F3A712;
+	border-left:3px solid #2e2751;
     background: #fff;
     /* z-index: 6000; */
     -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
@@ -543,7 +543,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	background: #2E2751;
 }
 .sidebar-popup .cross .btn:hover{
-	background:#F3A712;
+	background:#2e2751;
 	color:#fff;
 }
 .sidebar-popup .logo {
@@ -656,7 +656,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	color:#2E2751;
 }
 .header.style2 .topbar .social-icons li:hover a{
-	color:#F3A712;
+	color:#2e2751;
 }
 .header.style2 .img-logo {
     margin-top: 12px;
@@ -683,23 +683,23 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
     padding: 22px 0;
 }
 .header.style2 .nav li:hover a{
-	color:#E7A014;
+	color:#2e2751;
 }
 .header.style2 .nav li a::before{
-	background:#F3A712;
+	background:#2e2751;
 }
 .header.style2 .nav li .sub-menu li a{
 	color:#666;
 }
 .header.style2 .nav li .sub-menu li:hover a{
-	background:#E7A013;
+	background:#2e2751;
 	color:#fff;
 }
 .header.style2 .nav li .sub-menu li .sub-menu li a{
 	color:#666;
 }
 .header.style2 .nav li .sub-menu li .sub-menu li:hover a{
-	background:#E7A013;
+	background:#2e2751;
 	color:#fff;
 }
 .header.style2 .button {
@@ -834,7 +834,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 }
 .single-news .news-meta li i {
     margin-right: 5px;
-    color: #f3a712;
+    color: #2E2751;
 }
 .single-news .news-meta .author span{
 	display:inline-block;
@@ -910,7 +910,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
     padding: 0;
 }
 .blog-detail .news-meta li i {
-    color: #F3A712;
+    color: #2e2751;
     margin-right:5px;
 }
 .blog-single h5,
@@ -957,7 +957,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	z-index:-1;
 }
 .blog-single .blog-detail blockquote a {
-    background: #F3A712;
+    background: #2e2751;
     color: #fff;
     padding: 4px 20px;
     margin-top: 16px;
@@ -1034,7 +1034,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 }
 .posts_nav a:hover{
 	border-color:transparent;
-	background:#F3A712;
+	background:#2e2751;
 }
 .posts_nav .post-left i {
 	padding-right: 5px;
@@ -1170,7 +1170,7 @@ blockquote {
     width: 40px;
     height: 2px;
     bottom: 0;
-    background: #f3a712;
+    background: #2e2751;
 	display: block;
 }
 
@@ -1309,7 +1309,7 @@ blockquote {
 	border-radius:0px;
 }
 .blog-sidebar .subscribe-form form button {
-	background: #F3A712;
+	background: #2e2751;
 	position: relative;
 	border: none;
 	box-shadow: none;
@@ -1374,7 +1374,7 @@ blockquote {
 .error-inner h4 {
     font-size: 110px;
     line-height: 100px;
-    color: #F3A712;
+    color: #2e2751;
 }
 .error .error-image{
 	margin-bottom:30px;
@@ -1392,7 +1392,7 @@ blockquote {
     margin: 15px 0;
 }
 .error .error-inner h2 span{
-	color:#F3A712;
+	color:#2e2751;
 }
 .error .error-inner p {
     font-size: 15px;
@@ -1491,7 +1491,7 @@ blockquote {
     width: 32px;
     height: 5px;
     left: 0;
-    background: #F3A712;
+    background: #2e2751;
     margin-top: -2.5px;
 }
 .breadcrumbs .bread-menu li a {
@@ -1506,7 +1506,7 @@ blockquote {
 	display: inline-block;
 }
 .breadcrumbs .bread-menu li a:hover{
-	color:#F3A712;
+	color:#2e2751;
 }
 .breadcrumbs .bread-menu li:last-child{
 	margin:0;
@@ -1541,7 +1541,7 @@ blockquote {
     font-size: 0px;
     height: 12px;
     left: auto;
-    background: #F3A712;
+    background: #2e2751;
     top: 6px;
     border-radius: 100%;
     border: 2px solid #fff;
@@ -1557,7 +1557,7 @@ blockquote {
     position: relative;
 }
 .breadcrumbs.bread-blog .bread-menu ul li a:hover{
-	color:#F3A712 !important;
+	color:#2e2751 !important;
 }
 /*====================================
 	End BreadCrumbs CSS
@@ -1632,7 +1632,7 @@ blockquote {
 .preloader-spinner {
     -webkit-animation: 1s ease-out 0s normal none infinite running pulsate;
     animation: 1s ease-out 0s normal none infinite running pulsate;
-    border: 10px solid #F3A712;
+    border: 10px solid 2e2751;
     border-radius: 40px;
     display: block;
     height: 40px;
@@ -1772,7 +1772,7 @@ blockquote {
     width: auto;
 }
 .page-links span.current,.page-links a:hover {
-    background: #F3A712;
+    background: #2e2751;
     color: #fff;
 }
 .blog-single ul li {
@@ -1787,7 +1787,7 @@ blockquote {
     top: 50%;
     width: 8px;
     height: 8px;
-    background: #F3A712;
+    background: #2e2751;
     border-radius: 100%;
     margin-top: -4px;
 }
@@ -1822,7 +1822,7 @@ p.has-large-font-size {
 	width: 40px;
 	height: 2px;
 	bottom: -1px;
-	background: #f3a712;
+	background: #2e2751;
 	display: block;
 }
 .footer p {
@@ -1874,7 +1874,7 @@ p.has-large-font-size {
     transition: all 0.4s ease;
 }
 .footer .f-link ul li:hover:before{
-	background:#F3A712;
+	background:#2e2751;
 }
 .footer .f-link ul li:last-child{
 	margin-bottom:0px;
@@ -1896,7 +1896,7 @@ p.has-large-font-size {
 	display:none;
 }
 .footer .f-link ul li a:hover {
-	color:#F3A712;
+	color:#2e2751;
 }
 /* Footer Newsletter */
 .footer .footer-newsletter form {
@@ -1917,7 +1917,7 @@ p.has-large-font-size {
 	border-radius:0px;
 }
 .footer .footer-newsletter form button {
-	background: #F3A712;
+	background: #2e2751;
 	background-color: ;
 	position: absolute;
 	right: 0;
@@ -1954,7 +1954,7 @@ p.has-large-font-size {
     color: #ccc;
 }
 .footer-news .single-f-news .content .title a:hover{
-	color:#F2A611
+	color:#2e2751
 }
 .footer .footer-newsletter .address {
 	color: #777;
@@ -1962,7 +1962,7 @@ p.has-large-font-size {
 	margin-bottom: 20px;
 }
 .footer .single-f-news .post-meta i {
-    color: #F3A712;
+    color: #2e2751;
 }
 .footer .address-widget-list li {
     display: block;
@@ -1992,7 +1992,7 @@ p.has-large-font-size {
 }
 .footer .address-widget-list li:hover i{
 	background:#fff;
-	color:#F3A712;
+	color:#2e2751;
 }
 .footer .address-widget-list li:last-child{
 	margin-bottom:0px;
@@ -2044,7 +2044,7 @@ p.has-large-font-size {
 	text-transform:uppercase;
 }
 .footer .copyright-content a:hover{
-	color:#F3A712;
+	color:#2e2751;
 }
 /*====================================
 	End Footer CSS
@@ -2112,7 +2112,7 @@ p.has-large-font-size {
     left: 0;
     width: 50px;
     height: 6px;
-    background: #f3a712;
+    background: #2e2751;
     bottom: -3px;
 }
 .hero-slider .hero-text .p-text{
@@ -2148,7 +2148,7 @@ p.has-large-font-size {
     width: 50px;
     height: 60px;
     line-height: 60px;
-    background: #f3a712;
+    background: #2e2751;
     color: #fff;
     position: absolute;
     margin: 0;
@@ -2226,7 +2226,7 @@ p.has-large-font-size {
     line-height: 65px;
 }
 .hero-agency .hero-text h1 span {
-    color: #F3A712;
+    color: #2e2751;
 }
 .hero-agency .hero-text h4 {
     font-weight: 500;
@@ -2346,7 +2346,7 @@ p.has-large-font-size {
     transition: all 0.3s ease;
 }
 .hero-agency .a-feature:hover{
-	border-top-color:#F3A712;
+	border-top-color:#2e2751;
 	-webkit-transform:scale(1.05);
 	-moz-transform:scale(1.05);
 	transform:scale(1.05);
@@ -2360,7 +2360,7 @@ p.has-large-font-size {
     font-size: 40px;
     top: -30px;
     background: #fff;
-    color: #F3A712;
+    color: #2e2751;
     left: 50%;
 }
 .hero-agency .a-feature h4 {
@@ -2408,7 +2408,7 @@ p.has-large-font-size {
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
 }
 .single-feature .icon-head i{
-	color:#f3a712;
+	color:#2e2751;
 	width:90px;
 	height:90px;
 	line-height:90px;
@@ -2434,7 +2434,7 @@ p.has-large-font-size {
     z-index: 3;
     opacity: 1;
     line-height: 20px;
-    background: #f3a712;
+    background: #2e2751;
     border-radius: 25px;
     left: 50%;
     bottom: 19px;
@@ -2460,7 +2460,7 @@ p.has-large-font-size {
 .single-feature p{
 	font-size: 14px;
 }.bizwheel-btn.theme-2 {
-    background: #f3a712;
+    background: #2e2751;
     color: #fff;
     padding: 15px 32px;
 }
@@ -2590,7 +2590,7 @@ p.has-large-font-size {
     height: 52px;
     line-height: 52px;
     background: #fff;
-    color: #f3a712;
+    color: #2e2751;
     display: block;
     border-radius: 0px;
     -webkit-transition: all 0.4s ease;
@@ -2611,7 +2611,7 @@ p.has-large-font-size {
     top: 0;
     width: 100%;
     height: 100%;
-    background: #F3A712;
+    background: #2e2751;
     content: "";
     border-radius: 100%;
     -webkit-transition: all 0.4s ease;
@@ -2650,7 +2650,7 @@ p.has-large-font-size {
 }
 .features-main .bizwheel-btn.theme-2:hover {
     background: #fff;
-    color: #F3A712;
+    color: #2e2751;
 }
 /*======================================
 	End Features Main CSS
@@ -2724,7 +2724,7 @@ p.has-large-font-size {
 	font-size: 20px;
 }
 .single-service h4:hover a{
-	color:#F3A712;
+	color:#2e2751;
 }
 .single-service p {
 	font-size: 15px;
@@ -2746,7 +2746,7 @@ p.has-large-font-size {
 	transition:all 0.3s ease;
 }
 .single-service:hover .btn{
-	color:#F3A712;
+	color:#2e2751;
 }
 .single-service .btn i{
 	margin-right:5px;
@@ -2776,7 +2776,7 @@ p.has-large-font-size {
 	width: 40px;
 	height: 2px;
 	bottom: 0;
-	background: #f3a712;
+	background: #2E2751;
 	display: block;
 }
 .service-sidebar .widget ul li {
@@ -2805,7 +2805,7 @@ p.has-large-font-size {
 	font-weight: 400;
 }
 .service-sidebar .widget a:hover{
-	color:#F3A712;
+	color:#2e2751;
 }
 /* Service Details */
 .service-content h2 {
@@ -2862,13 +2862,13 @@ p.has-large-font-size {
     margin-top: 5px;
 }
 .call-action .bizwheel-btn {
-    background: #F3A712;
+    background: #2e2751;
     color: #fff;
 	box-shadow:0 10px 10px -8px rgba(0, 0, 0, 0.5);
 }
 .call-action .bizwheel-btn:hover{
 	background:#fff;
-	color:#F3A712;
+	color:#2e2751;
 }
 .call-action .call-text {
     z-index: 35;
@@ -2890,7 +2890,7 @@ p.has-large-font-size {
     color: #fff;
     height: 80px;
     line-height: 80px;
-    background: #f3a712;
+    background: #2e2751;
     font-size: 30px;
     margin-top: 40px;
     border: 3px solid #fff;
@@ -2948,7 +2948,7 @@ p.has-large-font-size {
 }
 #portfolio-nav li.active, 
 #portfolio-nav li:hover {
-    color: #F3A712;
+    color: #2e2751;
 }
 .single-portfolio .portfolio-head.overlay::before {
 	opacity: 0;
@@ -3029,7 +3029,7 @@ p.has-large-font-size {
     line-height: 51px;
     text-align: center;
     color: #fff;
-    background: #F3A712;
+    background: #2e2751;
     display: block;
     position: absolute;
     top: 50%;
@@ -3046,7 +3046,7 @@ p.has-large-font-size {
 }
 .single-portfolio .more:hover{
 	background:#fff;
-	color:#F3A712;
+	color:#2e2751;
 }
 .single-portfolio:hover .more{
 	opacity:1;
@@ -3119,7 +3119,7 @@ p.has-large-font-size {
 .pf-details .portfolio-meta ul li i {
 	position: absolute;
 	left: 20px;
-	color: #F3A712;
+	color: #2e2751;
 	font-size: 25px;
 	top: 50%;
 	margin-top: -12.5px;
@@ -3209,7 +3209,7 @@ p.has-large-font-size {
     width: 50px;
     height: 60px;
     line-height: 60px;
-    background: #f3a712;
+    background: #2e2751;
     color: #fff;
     position: absolute;
     margin: 0;
@@ -3329,7 +3329,7 @@ p.has-large-font-size {
 	font-weight:400;
 }
 .testimonial-inner .t-right .quote {
-    color: #f3a712;
+    color: #2e2751;
     float: right;
     z-index: 3;
     line-height: initial;
@@ -3348,7 +3348,7 @@ p.has-large-font-size {
 }
 .testimonial-slider .owl-controls .owl-dot span {
     background: transparent;
-    border: 4px solid #f3a712;
+    border: 4px solid #2e2751
     width: 13px;
     height: 13px;
     margin: 0;
@@ -3360,7 +3360,7 @@ p.has-large-font-size {
 .testimonial-slider .owl-controls .owl-dot.active span {
     background: transparent;
     border-color: transparent;
-    background: #f3a712;
+    background: #2e2751;
 }
 /*======================================
 	End Testimonial CSS
@@ -3406,7 +3406,7 @@ p.has-large-font-size {
 	transition:all 0.3s ease;
 }
 .single-counter:hover .icon:before{
-	background:#F3A712;
+	background:#2e2751;
 	left:0;
 	top:0;
 	opacity:0;
@@ -3428,7 +3428,7 @@ p.has-large-font-size {
 	transition:all 0.3s ease;
 }
 .single-counter:hover .icon i{
-	background:#F3A712;
+	background:#2e2751;
 	color:#fff;
 }
 .single-counter h3 {
@@ -3441,7 +3441,7 @@ p.has-large-font-size {
 }
 .single-counter h3 span {
     display: inline-block;
-    color: #F3A712;
+    color: #2e2751;
     margin-left: 5px;
 }
 .single-counter p {
@@ -3500,7 +3500,7 @@ p.has-large-font-size {
     box-shadow: 0px 0px 10px #0000001a;
 }
 .single-team .team-arrow a:hover {
-	background:#F3A712;
+	background:#2e2751;
 	color:#fff !important;
 }
 .single-team .t-content {
@@ -3534,7 +3534,7 @@ p.has-large-font-size {
     height: 2px;
     width: 50px;
     margin-left: -25px;
-    background: #f3a712;
+    background: #2e2751;
 }
 .single-team .t-content .text {
 	font-size: 14px;
@@ -3587,7 +3587,7 @@ p.has-large-font-size {
     display: inline-block;
 }
 .single-team .team-social li a:hover{
-	color:#F3A712;
+	color:#2e2751;
 }
 .team-grid .single-team{
 	margin-top:30px;
@@ -3612,7 +3612,7 @@ p.has-large-font-size {
 }
 .team-slider .owl-controls .owl-dot span {
     background: transparent;
-    border: 4px solid #f3a712;
+    border: 4px solid #2e2751;
     width: 13px;
     height: 13px;
     margin: 0;
@@ -3624,7 +3624,7 @@ p.has-large-font-size {
 .team-slider .owl-controls .owl-dot.active span {
     background: transparent;
     border-color: transparent;
-    background: #f3a712;
+    background: #2e2751;
 }
 
 .team-archive .single-team {
@@ -3659,7 +3659,7 @@ p.has-large-font-size {
     width: 45px;
     height: 45px;
     line-height: 45px;
-    background: #f3a712;
+    background: #2e2751;
     color: #fff;
     margin: 0;
     padding: inherit;
@@ -3780,7 +3780,7 @@ p.has-large-font-size {
     width: 50px;
     height: 60px;
     line-height: 60px;
-    background: #f3a712;
+    background: #2e2751;
     color: #fff;
     position: absolute;
     margin: 0;
@@ -3852,7 +3852,7 @@ p.has-large-font-size {
     width: 100%;
 }
 .partner-slider.owl-carousel .owl-nav div {
-    color: #f3a712 !important;
+    color: #2e2751 !important;
     position: absolute;
     background: transparent !important;
     margin: 0;
@@ -3910,7 +3910,7 @@ p.has-large-font-size {
 	font-size: 12px;
 	position: absolute;
 	right: -45px;
-	background: #f3a712;
+	background: #2e2751;
 	font-weight: 600;
 	padding: 1px 5px;
 	border-radius: 100%;
@@ -3927,7 +3927,7 @@ p.has-large-font-size {
 	content: "";
 	border-left: 0px solid transparent;
 	border-right: 20px solid transparent;
-	border-top: 10px solid #f3a712;
+	border-top: 10px solid #2e2751;
 	margin-left: -13px;
 }
 .single-skill .progress {
@@ -3987,7 +3987,7 @@ p.has-large-font-size {
     transition: all 0.4s ease;
     text-align: center;
     margin-bottom: 0px;
-    color: #F3A712;
+    color: #2e2751;
     border-radius: 100%;
     background: #fff;
     margin-top: 10px;
@@ -4016,7 +4016,7 @@ p.has-large-font-size {
 .single-pricing .price span {
     font-size: 48px;
     font-weight: 700;
-    color: #F3A712;
+    color: #2e2751;
 }
 .single-pricing .price span b {
     font-size: 25px;
@@ -4261,7 +4261,7 @@ p.has-large-font-size {
     position: absolute;
     right: 15px;
     z-index: 33;
-    color: #f3a712;
+    color: #2e2751;
     top: 12px;
 }
 .contact-form-area .form-group.button {
@@ -4327,7 +4327,7 @@ p.has-large-font-size {
 }
 .contact-form-area.faq-form .form-group.button .bizwheel-btn:hover{
 	background:#fff;
-	color:#F3A712;
+	color:#2e2751;
 }
 /* Servic Form  */
 .contact-form-area.service {
@@ -4561,7 +4561,7 @@ p.has-large-font-size {
 	width: 80px;
 	z-index: 333;
 	height: 80px;
-	color: #F3A712;
+	color: #2e2751;
 	font-size: 30px;
 	text-align: center;
 	line-height: 80px;
@@ -4571,7 +4571,7 @@ p.has-large-font-size {
 	border-radius: 100%;
 }
 .modern-img-feature .video-play:hover a{
-	background:#F3A712;
+	background:#2e2751;
 	color:#fff;
 }
 .side.overlay:before {
@@ -4601,7 +4601,7 @@ p.has-large-font-size {
     line-height: 35px;
 }
 .small-list-feature ul li i {
-    color: #f3a712;
+    color: #2e2751;
     margin-right: 10px;
     border: 1px solid;
     width: 25px;
