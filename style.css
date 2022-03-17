@@ -1365,6 +1365,7 @@ blockquote {
     position: relative;
     padding: 70px 0;
     z-index: 10;
+    
 }
 .breadcrumbs::before {
 	background: #000;
