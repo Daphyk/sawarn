@@ -2048,7 +2048,7 @@ p.has-large-font-size {
     border-right: 10px solid transparent;
 }
 .hero-slider .hero-text h1 {
-    color: #2E2751;
+    color: #ffffff;
     font-size: 50px;
     font-weight: bold;
     line-height: 65px;
@@ -2061,14 +2061,14 @@ p.has-large-font-size {
     left: 0;
     width: 50px;
     height: 6px;
-    background: #2e2751;
+    background: #ffffff;
     bottom: -3px;
 }
 .hero-slider .hero-text .p-text{
 	max-width:80%;
 }
 .hero-slider .hero-text p {
-    color: #666;
+    color: rgb(255, 255, 255);
     font-size: 15px;
 }
 .hero-slider .hero-text .button {
